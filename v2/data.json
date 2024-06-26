@@ -1,0 +1,54 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "云深不知处",
+      "url": "https://www.lanzlz.cn",
+      "avatar": "https://oss.lanzlz.cn/private/hIwTot.png",
+      "screenshot": "https://imgsrc.baidu.com/forum/pic/item/a1ec08fa513d2697bffe3b6a13fbb2fb4316d8dc.png",
+      "description": "不食人间烟火 且饮半杯风霜"
+    },
+    {
+      "title": "三钻",
+      "url": "https://tridiamond.tech",
+      "avatar": "https://upen.caup.net/ai_pics_mj/202303/1677952366325269.jpg",
+      "screenshot": "https://hexo.io/themes/screenshots/Aurora@2x.jpg",
+      "description": "Think like an artist, develop like an artisan."
+    },
+    {
+      "title": "月落星沉",
+      "url": "https://www.asxe.vip/",
+      "avatar": "https://www.asxe.vip/blog/images/avatar.webp",
+      "screenshot": "https://imgsrc.baidu.com/forum/pic/item/4610b912c8fcc3ce52f30f05d445d688d43f20d1.png",
+      "description": "斯人如彩虹，遇上方知有"
+    },
+    {
+      "title": "夏日鱼塘",
+      "url": "https://www.summerpond.cn",
+      "avatar": "https://gravatar.loli.net/avatar/21c4feb640c4e51427b2b2a201947b40?s=256&d=mm",
+      "screenshot": "https://imgsrc.baidu.com/forum/pic/item/b7003af33a87e9501027355a56385343fbf2b4d0.png",
+      "description": "一直做困难的事，生活会变得简单"
+    },
+    {
+      "title": "BOB’S BLOG",
+      "url": "https://www.itbob.cn/",
+      "avatar": "https://www.itbob.cn/img/avatar.png",
+      "screenshot": "https://imgsrc.baidu.com/forum/pic/item/0823dd54564e9258ba0f40d8da82d158ccbf4ec9.png",
+      "description": "数据采集、逆向安全"
+    },
+    {
+      "title": "優萌初華",
+      "url": "https://shoka.lostyu.me",
+      "avatar": "https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg",
+      "screenshot": "https://hexo.io/themes/screenshots/Shoka@2x.jpg",
+      "description": "琉璃的医学 & 编程笔记"
+    },
+    {
+      "title": "安知鱼",
+      "url": "https://blog.anheyu.com/",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg",
+      "screenshot": "https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg",
+      "description": "生活明朗，万物可爱"
+    }
+  ]
+}
